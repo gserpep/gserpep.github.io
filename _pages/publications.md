@@ -7,9 +7,14 @@ image: '/images/pages/publications.png'
 See [Google Scholar](https://scholar.google.com/citations?user=okTZ0VgAAAAJ&hl=en) for full details.<br/>
 <sub> * denotes equal contribution </sub>
 
+
 **<span style="color:#614e43"> Non-Contrastive Vision-Language Learning with Predictive Embedding Alignment</span>**
 [\[arxiv\]](https://arxiv.org/abs/2602.00653)<br/> Lukas Kuhn<sup>*</sup>, **Giuseppe Serra**<sup>*</sup>, and Florian Buettner <br/> 
-<em>  - 2026, Preprint <br/>
+<em>  - 2026 Conference on Computer Vision and Pattern Recognition (**CVPR**), Multimodal Learning and Applications Workshop <br/>
+
+**<span style="color:#614e43"> FedAgree: Leveraging Federated Checkpoints for Label-Free OOD Evaluation via Agreement</span>**
+[\[openreview\]](https://openreview.net/forum?id=cg5Cr8U4Tt)<br/> **Giuseppe Serra**, Ben Werner, and Florian Buettner <br/> 
+<em>  - 2026 International Conference on Learning Representations (**ICLR**), Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop <br/>
 
 **<span style="color:#614e43"> DATS: Distance-Aware Temperature Scaling for Calibrated Class-Incremental Learning</span>**
 [\[arxiv\]](https://arxiv.org/abs/2509.21161)<br/> **Giuseppe Serra** and Florian Buettner <br/> 
@@ -22,8 +27,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=okTZ0VgAAAAJ&hl=e
 
 **<span style="color:#614e43"> How to Leverage Predictive Uncertainty Estimates for Reducing Catastrophic Forgetting in Online Continual Learning </span>**
 [\[openreview\]](https://openreview.net/forum?id=dczXe0S1oL)<br/> **Giuseppe Serra**, Ben Werner, and Florian Buettner <br/> 
-<em>  - 2024 Conference on Knowledge Discovery and Data Mining (**KDD**) Workshop on Uncertainty Reasoning and Quantification in Decision Making <br/>
-<em>  - Transactions of Machine Learning Research (**TMLR**), 2025 <br/>
+<em>  - 2025 Transactions of Machine Learning Research (**TMLR**) <br/>
+<em>  - 2024 Conference on Knowledge Discovery and Data Mining (**KDD**), Workshop on Uncertainty Reasoning and Quantification in Decision Making <br/>
 
 **<span style="color:#614e43"> L2XGNN: Learning to Explain Graph Neural Networks</span>**
 [\[arxiv\]](https://arxiv.org/abs/2209.14402)<br/> **Giuseppe Serra** and Mathias Niepert <br/> 
