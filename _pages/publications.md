@@ -16,6 +16,10 @@ See [Google Scholar](https://scholar.google.com/citations?user=okTZ0VgAAAAJ&hl=e
 [\[openreview\]](https://openreview.net/forum?id=cg5Cr8U4Tt)<br/> **Giuseppe Serra**, Ben Werner, and Florian Buettner <br/> 
 <em>  - 2026 International Conference on Learning Representations (**ICLR**), Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop <br/>
 
+**<span style="color:#614e43"> Perturbation-guided Mapping of Colorectal Cancer Cell States to Causal Mechanisms</span>**
+[\[bioraxiv\]](https://www.biorxiv.org/content/10.64898/2026.03.03.708171v3.abstract)<br/> Soroor Hediyeh-zadeh<sup>*</sup>, Tzen S Toh<sup>*</sup>, Olli Dufva, **Giuseppe Serra**, Rashika Jakhmola, Camille Fourneaux, Goncalo Rei Pinto, Zijian Fang, Gabriele Picco, Amanda J Oliver, Rasa Elmentaite, Till Richter, Ken To, J Patrick Pett, Sarah A Teichmann, Elham Azizi, Florian Buettner, Fabian J Theis, and Mathew J Garnett <br/> 
+<em>  - 2026, under review <br/>
+
 **<span style="color:#614e43"> DATS: Distance-Aware Temperature Scaling for Calibrated Class-Incremental Learning</span>**
 [\[arxiv\]](https://arxiv.org/abs/2509.21161)<br/> **Giuseppe Serra** and Florian Buettner <br/> 
 <em>  - 2025, Under review <br/>
