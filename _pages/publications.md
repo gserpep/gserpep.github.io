@@ -7,6 +7,10 @@ image: '/images/pages/publications.png'
 See [Google Scholar](https://scholar.google.com/citations?user=okTZ0VgAAAAJ&hl=en) for full details.<br/>
 <sub> * denotes equal contribution </sub>
 
+**<span style="color:#614e43"> LeVJEPA: Efficient \& Scalable Video Pretraining without the Heuristics</span>**
+[\[arxiv\]](https://arxiv.org/abs/2607.00784)<br/> Lukas Kuhn, Lucas Maes, **Giuseppe Serra**, Quentin Le Lidec, Yann LeCun, Randall Balestriero, and Florian Buettner <br/> 
+<em>  - 2026, under review <br/>
+
 **<span style="color:#614e43"> LeVLJEPA: End-to-End Vision-Language Pretraining Without Negatives</span>**
 [\[arxiv\]](https://arxiv.org/abs/2607.00784)<br/> Lukas Kuhn, **Giuseppe Serra**, Randall Balestriero, and Florian Buettner <br/> 
 <em>  - 2026, under review <br/>
